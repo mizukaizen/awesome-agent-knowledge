@@ -42,6 +42,7 @@ Securing autonomous agents against prompt injection, data exfiltration, and adve
 - [Rebuff](https://github.com/protectai/rebuff) - Self-hardening prompt injection detector.
 - [LLM Guard](https://github.com/protectai/llm-guard) - Security toolkit for LLM interactions — input/output scanning.
 - [Guardrails AI](https://github.com/guardrails-ai/guardrails) - Input/output guards for LLM applications.
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
 
 ## Multi-Agent Governance
 
