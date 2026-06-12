@@ -27,6 +27,7 @@ How agents persist knowledge across sessions, manage context windows, and share 
 - [LangChain Memory](https://python.langchain.com/docs/modules/memory/) - Memory modules for LLM chains — buffer, summary, entity, and conversation memory.
 - [Letta (formerly MemGPT)](https://github.com/letta-ai/letta) - OS-like memory management for LLM agents with tiered storage.
 - [Mem0](https://github.com/mem0ai/mem0) - Memory layer for personalised AI — adds long-term memory to any LLM.
+- [Remio](https://remio.ai/) - Local-first personal knowledge base for agents. Pre-parses files, webpages, recordings, notes, emails, messages, and images into indexed/vector-retrievable context to reduce repeated raw file reads and context-token cost.
 - [Zep](https://github.com/getzep/zep) - Long-term memory for AI assistants with knowledge graph integration.
 - [ChromaDB](https://github.com/chroma-core/chroma) - Open-source vector database for storing and retrieving agent memory embeddings.
 
