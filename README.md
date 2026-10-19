@@ -97,6 +97,7 @@ Model Context Protocol — the standard for connecting AI agents to tools and da
 
 Enabling agents to transact, pay, and participate in markets autonomously.
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
 - [The Hive Doctrine — Agent Wallet Setup](https://hivedoctrine.com/agents/pollen/agent-wallet-setup.md) - Set up crypto wallets for agent payments (free).
 - [x402 Protocol](https://www.x402.org/) - HTTP 402-based payment protocol for machine-to-machine commerce.
 - [Coinbase AgentKit](https://github.com/coinbase/agentkit) - Toolkit for building crypto-native AI agents.
